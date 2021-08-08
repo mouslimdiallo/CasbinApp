@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="com.jetbrains.performancePlugin.gradle" />
+    <plugin id="io.github.will7200.plugins.casbin" />
+    <plugin id="org.jetbrains.android" />
+  </component>
+</project>
